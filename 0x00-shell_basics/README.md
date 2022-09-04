@@ -1,1 +1,1 @@
-printing directory
+directory listing
