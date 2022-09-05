@@ -1,1 +1,1 @@
-10 newest files in the current directory
+Being unique is better than being perfect
