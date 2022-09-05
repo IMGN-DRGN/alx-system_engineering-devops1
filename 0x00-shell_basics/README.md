@@ -1,1 +1,1 @@
-moving files to dir
+deleting file cmd
