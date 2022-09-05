@@ -1,1 +1,1 @@
-a scripts that creates a directory
+moving files to dir
