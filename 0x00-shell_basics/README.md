@@ -1,1 +1,1 @@
-long list display cmd
+displays all files
