@@ -1,1 +1,1 @@
-deleting file cmd
+deleting a directory
