@@ -1,1 +1,1 @@
-creating a file
+listing cmd
