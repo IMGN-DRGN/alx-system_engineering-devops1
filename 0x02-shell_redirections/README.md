@@ -1,1 +1,1 @@
-I HATE BINS
+Letters Only Please
