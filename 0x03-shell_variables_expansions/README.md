@@ -1,1 +1,1 @@
-POWER and DIVIDE are environment variables
+Love is anterior to life
