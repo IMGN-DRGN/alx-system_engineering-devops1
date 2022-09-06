@@ -1,1 +1,1 @@
-Every addition
+POWER and DIVIDE are environment variables
