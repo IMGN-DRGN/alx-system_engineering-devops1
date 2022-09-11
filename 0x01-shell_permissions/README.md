@@ -1,1 +1,1 @@
-write a script that changes the owner of the file
+write a script that adds execute permission to the owner and group owner
