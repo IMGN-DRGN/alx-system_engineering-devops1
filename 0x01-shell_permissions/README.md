@@ -1,1 +1,1 @@
-write a script that adds execute permission to the owner and group owner
+permission for everybody
